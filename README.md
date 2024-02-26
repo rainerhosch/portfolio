@@ -8,7 +8,7 @@
   <br />
   <br />
   
-  <img src="./public/readme-images/moj.png" />
+  <img src="./public/images/main.png" />
 
   <h2 align="center">Rizky Ardiansyah - Personal portfolio</h2>
 
