@@ -3,7 +3,7 @@
   ![GitHub repo size](https://img.shields.io/github/repo-size/rainerhosch/portfolio)
   ![GitHub stars](https://img.shields.io/github/stars/rainerhosch/portfolio?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/rainerhosch/portfolio?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/irainerhosch?style=social)](https://twitter.com/intent/follow?screen_name=irainerhosch)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/onchainmfer?style=social)](https://twitter.com/intent/follow?screen_name=onchainmfer)
 
   <br />
   <br />
