@@ -8,10 +8,10 @@ const Languages = () => {
 
     useEffect(() => {
         const timer = setInterval(() => {
-            if (indo < 98) {
+            if (indo < 100) {
                 setIndo(prevCount => prevCount + 1);
             }
-            if (english < 85) {
+            if (english < 100) {
                 setEnglish(prevCount => prevCount + 1);
             }
             if (machine < 100) {

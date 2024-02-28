@@ -5,7 +5,7 @@ const Exp_Card = ({ data }) => {
     return (
         <CardLayout>
             <div className="card_stylings transition px-8 py-10 ">
-                <div className="flex-initial text-[17px] text-Snow font-medium">{data.title}</div>
+                <div className="flex-initial text-[17px] text-[#a3ff04c3] font-medium">{data.title}</div>
                 <div className="text-sm text-LightGray font-normal italic mt-1 ">
                     {data.role}
                 </div>

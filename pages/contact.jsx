@@ -13,7 +13,7 @@ const Contact = () => {
     return (
         <BannerLayout>
             <div className=" px-4 py-2">
-                <div className="my-6 text-Snow flex flex-col gap-y-5">
+                <div className="my-6 text-[#a3ff04] flex flex-col gap-y-5">
                     <h1 className='text-lg font-bold'>Contact Information</h1>
                     <div className="flex flex-col md:flex-row items-center gap-5 text-xs">
                         <div className="card_stylings w-full md:w-1/2 p-5 md:p-6 lg:p-8 flex flex-col gap-y-4">
@@ -56,7 +56,7 @@ const Contact = () => {
                 </div>
 
 
-                <div className="my-12 w-full h-auto text-Snow">
+                <div className="my-12 w-full h-auto text-[#a3ff04]">
                     <h1 className='text-lg font-bold'>Get In Touch</h1>
                     <div className="mt-4 py-8 px-8 bg-EveningBlack rounded-xl text-sm">
                         <div>
