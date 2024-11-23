@@ -20,8 +20,8 @@ export default function App({ Component, pageProps }) {
                       name="keywords"
                       content="NFT,FlappyOwl NFT,Ethereum,Crypto,Opensea,Flappyowl,Onchain Nft"
                   />
-                  <meta property="og:image" content="https://www.rzoktan.tech/readme-images/portfolio.png" />
-                  <meta property="og:url" content="https://rzoktan.tech" />
+                  <meta property="og:image" content="https://www.rizkyoktan.my.id/readme-images/portfolio.png" />
+                  <meta property="og:url" content="https://www.rizkyoktan.my.id" />
                   <meta name="twitter:card" content="summary_large_image" />
         </Head>
         <Component {...pageProps} />
