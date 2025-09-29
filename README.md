@@ -1,20 +1,20 @@
 <div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/rainerhosch/portfolio)
-  ![GitHub stars](https://img.shields.io/github/stars/rainerhosch/portfolio?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/rainerhosch/portfolio?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/onchainmfer?style=social)](https://twitter.com/intent/follow?screen_name=onchainmfer)
 
-  <br />
-  <br />
-  
-  <img src="./public/images/main.png" />
+![GitHub repo size](https://img.shields.io/github/repo-size/rainerhosch/portfolio)
+![GitHub stars](https://img.shields.io/github/stars/rainerhosch/portfolio?style=social)
+![GitHub forks](https://img.shields.io/github/forks/rainerhosch/portfolio?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/onchainmfer?style=social)](https://twitter.com/intent/follow?screen_name=onchainmfer)
 
-  <h2 align="center">Rizky Ardiansyah - Personal portfolio</h2>
+<br />
+  <br />
+
+<img src="./public/images/main.png" />
+
+<h2 align="center">Rizky Ardiansyah - Personal portfolio</h2>
 
 This website is fully responsive personal portfolio, <br />Responsive for all devices, built using Nextjs, TailwindCSS only.
 
-<a href="https://rzoktan.tech/"><strong>➥ Live Demo</strong></a>
+<a href="https://rizkyoktan.my.id/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -53,3 +53,4 @@ If you want to contact with me you can reach me at [X](https://www.x.com/onchain
 ### License
 
 This project is **free to use** and does not contains any license.
+
